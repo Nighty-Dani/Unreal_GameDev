@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UNREAL PROYECTOS 2025/Unreal_GameDev/UnrealGame_Seminario/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/UNREAL PROYECTOS 2025/Unreal_GameDev/UnrealGame_Seminario/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UNREAL PROYECTOS 2025/Unreal_GameDev/UnrealGame_Seminario/Content/IA_ENEMY/IA_CONTROLLER.uasset",
+				"D:/UNREAL PROYECTOS 2025/Unreal_GameDev/UnrealGame_Seminario/Content/IA_ENEMY/BP_AIController.uasset",
+				"D:/UNREAL PROYECTOS 2025/Unreal_GameDev/UnrealGame_Seminario/Content/IA_ENEMY/BBlackboard_enemy.uasset",
+				"D:/UNREAL PROYECTOS 2025/Unreal_GameDev/UnrealGame_Seminario/Content/IA_ENEMY/BP_Patrullaje.uasset",
+				"D:/UNREAL PROYECTOS 2025/Unreal_GameDev/UnrealGame_Seminario/Content/IA_ENEMY/BTTask_Random.uasset",
+				"D:/UNREAL PROYECTOS 2025/Unreal_GameDev/UnrealGame_Seminario/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NX/F16XXAIQO1KJ7Y34JFVI71.uasset",
+				"D:/UNREAL PROYECTOS 2025/Unreal_GameDev/UnrealGame_Seminario/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/YJ/QDK3A2NVP9QFL1MB83QYX3.uasset"
 			]
 		}
 	]
