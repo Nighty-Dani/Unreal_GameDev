@@ -1814,3 +1814,780 @@ FPackageName: Skipped package /Game/EXTRAS/PVZ_-_Laura_Shigihara has a valid, mo
 [2025.03.06-19.46.45:877][188]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GamePlay_Elements/Puerta/BP_FinalDoor_Auto3
 [2025.03.06-19.46.45:891][188]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_FinalDoor_Auto3D4189D6A47AAD5350613F88F413590C4.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/Autosaves/Game/GamePlay_Elements/Puerta/BP_FinalDoor_Auto3.uasset'
 [2025.03.06-19.46.45:911][188]LogFileHelpers: Auto-saving content packages took 3.033
+[2025.03.06-19.49.32:130][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.06-19.51.04:555][580]LogContentBrowser: Attempting asset rename: BP_FinalDoor -> BP_F
+[2025.03.06-19.51.04:702][580]LogMetaData: Removing '/Game/GamePlay_Elements/Puerta/BP_F.BP_F:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GamePlay_Elements/Puerta/BP_FinalDoor.PackageMetaData'
+[2025.03.06-19.51.04:702][580]LogMetaData: Removing '/Game/GamePlay_Elements/Puerta/BP_F.BP_F_C' ref from Metadata '/Game/GamePlay_Elements/Puerta/BP_FinalDoor.PackageMetaData'
+[2025.03.06-19.51.04:702][580]LogMetaData: Removing '/Game/GamePlay_Elements/Puerta/BP_F.SKEL_BP_F_C' ref from Metadata '/Game/GamePlay_Elements/Puerta/BP_FinalDoor.PackageMetaData'
+[2025.03.06-19.51.04:702][580]LogMetaData: Removing '/Game/GamePlay_Elements/Puerta/BP_F.SKEL_BP_F_C:BndEvt__BP_FinalDoor_WinningTrigger_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/GamePlay_Elements/Puerta/BP_FinalDoor.PackageMetaData'
+[2025.03.06-19.51.04:702][580]LogMetaData: Removing '/Game/GamePlay_Elements/Puerta/BP_F.SKEL_BP_F_C:Opendor' ref from Metadata '/Game/GamePlay_Elements/Puerta/BP_FinalDoor.PackageMetaData'
+[2025.03.06-19.51.04:702][580]LogMetaData: Removing '/Game/GamePlay_Elements/Puerta/BP_F.SKEL_BP_F_C:UserConstructionScript' ref from Metadata '/Game/GamePlay_Elements/Puerta/BP_FinalDoor.PackageMetaData'
+[2025.03.06-19.51.04:881][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-19.51.04:881][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GamePlay_Elements/Puerta/BP_F] ([2] browsable assets)...
+[2025.03.06-19.51.04:881][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/BP_F]
+[2025.03.06-19.51.04:881][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GamePlay_Elements/Puerta/BP_F" FILE="E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/GamePlay_Elements/Puerta/BP_F.uasset" SILENT=true
+[2025.03.06-19.51.05:988][580]LogSavePackage: Moving output files for package: /Game/GamePlay_Elements/Puerta/BP_F
+[2025.03.06-19.51.05:989][580]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_F714B56F5456427C647C782A6BF21E99B.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/GamePlay_Elements/Puerta/BP_F.uasset'
+[2025.03.06-19.51.07:922][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GamePlay_Elements/Puerta/BP_FinalDoor] ([5] browsable assets)...
+[2025.03.06-19.51.07:922][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/BP_FinalDoor]
+[2025.03.06-19.51.11:808][580]LogSavePackage: Moving output files for package: /Game/GamePlay_Elements/Puerta/BP_FinalDoor
+[2025.03.06-19.51.17:493][580]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_FinalDoorB90AC6DB46526657973D5B81B2B45431.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/GamePlay_Elements/Puerta/BP_FinalDoor.uasset'
+[2025.03.06-19.51.25:089][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 20.2 sec (total: 33.2 sec)
+[2025.03.06-19.51.25:187][580]LogContentValidation: Display: Starting to validate 4 assets
+[2025.03.06-19.51.25:187][580]LogContentValidation: Enabled validators:
+[2025.03.06-19.51.25:187][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-19.51.25:187][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-19.51.25:187][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-19.51.25:187][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-19.51.25:187][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-19.51.25:187][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-19.51.25:187][580]AssetCheck: /Game/GamePlay_Elements/Puerta/BP_F Validating asset
+[2025.03.06-19.51.25:187][580]AssetCheck: /Game/GamePlay_Elements/Puerta/BP_FinalDoor Validating asset
+[2025.03.06-19.51.25:187][580]AssetCheck: /Game/GamePlay_Elements/Puerta/BP_FinalDoor Validating asset
+[2025.03.06-19.51.25:187][580]AssetCheck: /Game/GamePlay_Elements/Puerta/BP_FinalDoor Validating asset
+[2025.03.06-19.51.33:354][740]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.06-19.51.33:366][740]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.06-19.51.33:372][740]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.06-19.51.33:382][741]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.06-19.52.15:733][  0]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_FINALD
+[2025.03.06-19.52.15:742][  0]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.06-19.52.17:786][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD
+[2025.03.06-19.52.17:786][  1]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.03.06-19.52.22:584][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2872.755127
+[2025.03.06-19.52.22:730][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-19.52.22:730][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2872.893311, Update Interval: 325.302277
+[2025.03.06-19.52.28:108][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.03.06-19.52.45:953][667]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:954][667]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:961][668]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:961][668]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:961][668]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:970][669]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:971][669]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:971][669]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:978][670]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:978][670]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:979][670]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:987][671]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:987][671]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:987][671]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:995][672]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:995][672]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.45:995][672]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:003][673]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:003][673]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:003][673]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:011][674]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:012][674]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:012][674]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:020][675]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:021][675]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:021][675]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:028][676]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:028][676]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:028][676]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:037][677]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:037][677]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:037][677]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:044][678]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:045][678]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:045][678]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:053][679]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:053][679]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:053][679]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:061][680]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:061][680]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:061][680]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:070][681]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:070][681]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:070][681]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:079][682]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:079][682]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:079][682]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:088][683]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:088][683]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:088][683]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:096][684]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:096][684]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:096][684]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:105][685]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:105][685]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:105][685]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:112][686]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:113][686]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:113][686]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:121][687]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:122][687]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:122][687]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:130][688]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:130][688]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:130][688]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:138][689]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:139][689]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:139][689]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:146][690]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:146][690]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:146][690]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:155][691]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:155][691]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:155][691]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:164][692]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:164][692]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:164][692]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:173][693]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:173][693]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:173][693]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:181][694]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:181][694]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:181][694]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:189][695]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:189][695]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:189][695]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:197][696]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:198][696]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:198][696]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:205][697]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:206][697]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:206][697]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:214][698]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:214][698]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:214][698]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:223][699]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:224][699]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:224][699]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:231][700]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:231][700]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:231][700]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:239][701]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:240][701]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:240][701]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:248][702]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:248][702]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:248][702]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:257][703]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:257][703]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:258][703]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:266][704]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:266][704]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:266][704]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:275][705]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:275][705]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:275][705]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:284][706]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:284][706]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:284][706]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:291][707]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:291][707]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:292][707]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:301][708]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:301][708]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:301][708]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:309][709]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:309][709]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:309][709]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:318][710]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.46:318][710]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.52.51:725][343]LogShaderCompilers: Display: ================================================
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Total job queries 256, among them cache hits 19 (7.42%), DDC hits 196 (76.56%), Duplicates 5 (1.95%)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 195 distinct outputs (84.05%)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: RAM used: 134,95 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Shaders Compiled: 36
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Jobs assigned 36, completed 36 (100%)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Average time worker was idle: 431.39 s
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 9.58 s
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Job life time (pending + execution): average 1.90 s, max 9.58
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Shader code size: average 7,641 KiB, min 4,219 KiB, max 13,34 KiB
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.93 s
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Average processing rate: 1.81 jobs/sec
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Total thread time: 13,447 s
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Total thread preprocess time: 3,728 s
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Percentage time preprocessing: 27.73%
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Effective parallelization: 0.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.47 sec, max 0.64 sec, min 0.36 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.42 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    8 times, average 0.34 sec, max 0.46 sec, min 0.24 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 0.31 sec, max 0.41 sec, min 0.21 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.30 sec, max 0.41 sec, min 0.21 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.27% of total time (compiled    9 times, average 0.47 sec, max 0.64 sec, min 0.36 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                                 FLumenCardPS - 20.47% of total time (compiled    8 times, average 0.34 sec, max 0.46 sec, min 0.24 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.42% of total time (compiled    9 times, average 0.31 sec, max 0.41 sec, min 0.21 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.72% of total time (compiled    8 times, average 0.30 sec, max 0.41 sec, min 0.21 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display:                                                FAnisotropyPS - 6.37% of total time (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.42 sec)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: === Material stats ===
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Materials Translated:    146
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: Material Cache Hits: 24 (16%)
+[2025.03.06-19.52.51:726][343]LogShaderCompilers: Display: ================================================
+[2025.03.06-19.53.11:288][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-19.53.11:353][633]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GamePlay_Elements/Puerta/BP_FINALD] ([2] browsable assets)...
+[2025.03.06-19.53.11:374][633]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD]
+[2025.03.06-19.53.11:374][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/BP_FINALD]
+[2025.03.06-19.53.11:705][633]LogSavePackage: Moving output files for package: /Game/GamePlay_Elements/Puerta/BP_FINALD
+[2025.03.06-19.53.11:705][633]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_FINALDB45C6DBF40E5E7018A765C82DF2FF3EF.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/GamePlay_Elements/Puerta/BP_FINALD.uasset'
+[2025.03.06-19.53.13:621][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.33 sec (total: 35.5 sec)
+[2025.03.06-19.53.13:700][633]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.06-19.53.13:700][633]LogContentValidation: Enabled validators:
+[2025.03.06-19.53.13:700][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-19.53.13:700][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-19.53.13:700][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-19.53.13:700][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-19.53.13:700][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-19.53.13:700][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-19.53.13:700][633]AssetCheck: /Game/GamePlay_Elements/Puerta/BP_FINALD Validating asset
+[2025.03.06-19.53.18:397][725]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.06-19.53.27:751][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.06-19.53.33:555][981]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:555][981]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:563][982]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:563][982]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:563][982]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:572][983]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:572][983]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:572][983]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:580][984]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:580][984]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:580][984]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:588][985]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:588][985]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:588][985]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:596][986]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:596][986]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:596][986]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:605][987]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:605][987]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:605][987]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:613][988]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:613][988]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:613][988]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:621][989]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:622][989]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:622][989]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:630][990]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:630][990]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:630][990]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:638][991]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:639][991]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:639][991]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:646][992]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:646][992]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:646][992]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:655][993]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:655][993]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:655][993]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:662][994]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:662][994]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:662][994]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:671][995]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:671][995]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:671][995]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:680][996]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:680][996]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:680][996]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:689][997]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:689][997]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:689][997]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:696][998]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:696][998]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:696][998]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:704][999]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:704][999]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:704][999]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:713][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:713][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:713][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:722][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:722][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:722][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:730][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:730][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:730][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:738][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:738][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:738][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:746][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:746][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:746][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:755][  5]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:755][  5]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:755][  5]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:763][  6]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:763][  6]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:763][  6]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:772][  7]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:772][  7]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:772][  7]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:780][  8]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:780][  8]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:780][  8]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:788][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:788][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:788][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:796][ 10]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:796][ 10]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:796][ 10]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:805][ 11]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:805][ 11]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:805][ 11]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:813][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:813][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:813][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:821][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:821][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:821][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:828][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:828][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:830][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:838][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:838][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:838][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:845][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:846][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:846][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:854][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:855][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:855][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:863][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:863][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:863][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:871][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:872][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:872][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:880][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:880][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:880][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:888][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:888][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:888][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:896][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:896][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:896][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:905][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:905][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:905][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:912][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:912][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:912][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:922][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:922][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:922][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:930][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:930][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:930][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:938][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:938][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:938][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:946][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:946][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:946][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:955][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:955][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:955][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:962][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:962][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:962][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:971][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:971][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:972][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:980][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:980][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:980][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:988][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:989][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:989][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:997][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:997][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.33:997][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:005][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:005][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:005][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:013][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:013][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:013][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:022][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:022][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:022][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:030][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:030][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:030][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:038][ 39]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:039][ 39]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:039][ 39]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:046][ 40]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:046][ 40]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:046][ 40]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:055][ 41]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:055][ 41]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:055][ 41]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:063][ 42]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:063][ 42]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:063][ 42]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:071][ 43]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:071][ 43]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:071][ 43]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:080][ 44]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:080][ 44]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:080][ 44]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:088][ 45]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:088][ 45]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:088][ 45]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:097][ 46]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:097][ 46]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:097][ 46]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:105][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.34:105][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.BP_FINALD_C_0.Door has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=1.000
+[2025.03.06-19.53.54:569][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-19.53.54:634][ 54]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GamePlay_Elements/Puerta/BP_FINALD] ([2] browsable assets)...
+[2025.03.06-19.53.54:656][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD]
+[2025.03.06-19.53.54:656][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/BP_FINALD]
+[2025.03.06-19.54.02:530][ 54]LogSavePackage: Moving output files for package: /Game/GamePlay_Elements/Puerta/BP_FINALD
+[2025.03.06-19.54.02:539][ 54]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_FINALDEF9F0EBF4E8F8FF2327D94A6089C3541.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/GamePlay_Elements/Puerta/BP_FINALD.uasset'
+[2025.03.06-19.54.02:566][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.99 sec (total: 43.5 sec)
+[2025.03.06-19.54.02:652][ 54]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.06-19.54.02:652][ 54]LogContentValidation: Enabled validators:
+[2025.03.06-19.54.02:652][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-19.54.02:652][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-19.54.02:652][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-19.54.02:652][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-19.54.02:652][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-19.54.02:652][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-19.54.02:652][ 54]AssetCheck: /Game/GamePlay_Elements/Puerta/BP_FINALD Validating asset
+[2025.03.06-19.54.08:181][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.06-19.54.39:103][642]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.06-19.54.39:114][642]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.06-19.54.39:120][642]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.06-19.54.39:131][643]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.06-19.54.54:132][759]LogContentBrowser: Attempting asset rename: NewBlueprint -> WinningTrigger
+[2025.03.06-19.54.54:138][759]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: ================================================
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Total job queries 258, among them cache hits 19 (7.36%), DDC hits 196 (75.97%), Duplicates 5 (1.94%)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Tracking 234 distinct input hashes that result in 196 distinct outputs (83.76%)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: RAM used: 135,28 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Shaders Compiled: 38
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100%)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Average time worker was idle: 404.06 s
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Job execution time: average 1.89 s, max 9.58 s
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Job life time (pending + execution): average 1.94 s, max 9.58
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Shader code size: average 7,684 KiB, min 4,219 KiB, max 13,34 KiB
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.64 s
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Average processing rate: 1.68 jobs/sec
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Total thread time: 14,162 s
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Total thread preprocess time: 3,755 s
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Percentage time preprocessing: 26.51%
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Effective parallelization: 0.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.46 sec, max 0.64 sec, min 0.36 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.42 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    8 times, average 0.34 sec, max 0.46 sec, min 0.24 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 0.31 sec, max 0.41 sec, min 0.21 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.30 sec, max 0.41 sec, min 0.21 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.60% of total time (compiled   10 times, average 0.46 sec, max 0.64 sec, min 0.36 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.54% of total time (compiled   10 times, average 0.31 sec, max 0.41 sec, min 0.21 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                                 FLumenCardPS - 19.43% of total time (compiled    8 times, average 0.34 sec, max 0.46 sec, min 0.24 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.83% of total time (compiled    8 times, average 0.30 sec, max 0.41 sec, min 0.21 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display:                                                FAnisotropyPS - 6.05% of total time (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.42 sec)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: === Material stats ===
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Materials Translated:    146
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: Material Cache Hits: 24 (16%)
+[2025.03.06-19.55.51:729][566]LogShaderCompilers: Display: ================================================
+[2025.03.06-19.57.40:879][332]LogBlueprint: Warning: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] Could not find a variable named "Arrow" in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'.
+Make sure '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C' has been compiled for  Get Arrow
+[2025.03.06-19.57.40:879][332]LogBlueprint: Warning: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] Could not find a variable named "PuertaCerrada" in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'.
+Make sure '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C' has been compiled for  Get PuertaCerrada
+[2025.03.06-19.57.40:879][332]LogBlueprint: Warning: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] Could not find a variable named "PuertaAbierta" in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'.
+Make sure '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C' has been compiled for  Get PuertaAbierta
+[2025.03.06-19.57.40:879][332]LogBlueprint: Error: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] The property associated with  Puerta Abierta  could not be found in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'
+[2025.03.06-19.57.40:879][332]LogBlueprint: Error: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] The property associated with  Puerta Cerrada  could not be found in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'
+[2025.03.06-19.57.40:879][332]LogBlueprint: Error: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] The property associated with  Arrow  could not be found in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'
+[2025.03.06-19.57.40:914][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.06-19.58.32:935][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3243.116455
+[2025.03.06-19.58.33:069][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-19.58.33:069][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3243.242676, Update Interval: 355.861694
+[2025.03.06-19.58.42:722][252]LogBlueprint: Warning: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] Could not find a variable named "PuertaCerrada" in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'.
+Make sure '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C' has been compiled for  Get PuertaCerrada
+[2025.03.06-19.58.42:722][252]LogBlueprint: Warning: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] Could not find a variable named "PuertaAbierta" in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'.
+Make sure '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C' has been compiled for  Get PuertaAbierta
+[2025.03.06-19.58.42:722][252]LogBlueprint: Error: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] The property associated with  Puerta Abierta  could not be found in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'
+[2025.03.06-19.58.42:722][252]LogBlueprint: Error: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] The property associated with  Puerta Cerrada  could not be found in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'
+[2025.03.06-19.58.42:769][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.06-19.58.45:477][567]LogEditorTransaction: Undo Attach Component
+[2025.03.06-19.59.27:750][191]LogSlate: Window 'Delete Component' being destroyed
+[2025.03.06-19.59.27:882][191]LogBlueprint: Error: [AssetLog] : [Compiler] The component that  On Component Begin Overlap (WinningTrigger)  was bound to has been deleted! This node is no longer valid
+[2025.03.06-19.59.27:882][191]BlueprintLog: Error: The component that  On Component Begin Overlap (WinningTrigger)  was bound to has been deleted! This node is no longer valid
+[2025.03.06-19.59.38:040][908]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GamePlay_Elements/Puerta/WinningTrigger.WinningTrigger
+[2025.03.06-19.59.38:041][908]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.03.06-20.00.04:772][569]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.06-20.00.05:957][652]LogEditorTransaction: Undo Add Component
+[2025.03.06-20.00.06:442][708]LogEditorTransaction: Undo Remove Components
+[2025.03.06-20.00.06:886][753]LogEditorTransaction: Undo Remove Components
+[2025.03.06-20.01.44:514][517]LogBlueprint: Warning: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] Could not find a variable named "PuertaCerrada" in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'.
+Make sure '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C' has been compiled for  Get PuertaCerrada
+[2025.03.06-20.01.44:514][517]LogBlueprint: Warning: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] Could not find a variable named "PuertaAbierta" in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'.
+Make sure '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C' has been compiled for  Get PuertaAbierta
+[2025.03.06-20.01.44:514][517]LogBlueprint: Error: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] The property associated with  Puerta Abierta  could not be found in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'
+[2025.03.06-20.01.44:514][517]LogBlueprint: Error: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] The property associated with  Puerta Cerrada  could not be found in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'
+[2025.03.06-20.01.44:594][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.06-20.02.00:271][261]LogBlueprint: Warning: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] Could not find a variable named "PuertaCerrada" in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'.
+Make sure '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C' has been compiled for  Get PuertaCerrada
+[2025.03.06-20.02.00:271][261]LogBlueprint: Warning: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] Could not find a variable named "PuertaAbierta" in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'.
+Make sure '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C' has been compiled for  Get PuertaAbierta
+[2025.03.06-20.02.00:272][261]LogBlueprint: Error: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] The property associated with  Puerta Abierta  could not be found in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'
+[2025.03.06-20.02.00:272][261]LogBlueprint: Error: [AssetLog] E:\Proyecto Unreal\Seminario\Unreal_GameDev\UnrealGame_Seminario\Content\GamePlay_Elements\Puerta\BP_FINALD.uasset: [Compiler] The property associated with  Puerta Cerrada  could not be found in '/Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD_C'
+[2025.03.06-20.02.00:311][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.06-20.02.23:167][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.06-20.03.44:678][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.06-20.05.14:157][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3644.321533
+[2025.03.06-20.05.14:326][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-20.05.14:326][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3644.483154, Update Interval: 327.201141
+[2025.03.06-20.05.48:927][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.06-20.06.19:373][ 85]LogDerivedDataCache: C:/Users/ALUMNO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.06-20.07.00:773][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.06-20.07.00:775][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2025.03.06-20.07.00:775][346]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile] ([2] browsable assets)...
+[2025.03.06-20.07.01:018][346]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile]
+[2025.03.06-20.07.01:019][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile]
+[2025.03.06-20.07.01:900][346]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto4
+[2025.03.06-20.07.01:900][346]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_FirstPersonProjectile_Auto454FF27A34339566BFA4804A5DB7E8514.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto4.uasset'
+[2025.03.06-20.07.01:907][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IA_ENEMY/IA_ENEMIGO] ([2] browsable assets)...
+[2025.03.06-20.07.01:958][346]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/IA_ENEMY/IA_ENEMIGO.IA_ENEMIGO]
+[2025.03.06-20.07.01:958][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA_ENEMY/IA_ENEMIGO]
+[2025.03.06-20.07.03:152][346]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA_ENEMY/IA_ENEMIGO_Auto4
+[2025.03.06-20.07.03:152][346]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/IA_ENEMIGO_Auto48315B0B74F8D04ADCF733F9F7A634B33.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/Autosaves/Game/IA_ENEMY/IA_ENEMIGO_Auto4.uasset'
+[2025.03.06-20.07.03:166][346]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GamePlay_Elements/Puerta/BP_FINALD] ([2] browsable assets)...
+[2025.03.06-20.07.03:187][346]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GamePlay_Elements/Puerta/BP_FINALD.BP_FINALD]
+[2025.03.06-20.07.03:187][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/BP_FINALD]
+[2025.03.06-20.07.04:146][346]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GamePlay_Elements/Puerta/BP_FINALD_Auto4
+[2025.03.06-20.07.04:146][346]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_FINALD_Auto403848BAB4A0BA96CA91C2C91BE9FD93E.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/Autosaves/Game/GamePlay_Elements/Puerta/BP_FINALD_Auto4.uasset'
+[2025.03.06-20.07.04:155][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GamePlay_Elements/Puerta/WinningTrigger] ([2] browsable assets)...
+[2025.03.06-20.07.04:155][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/WinningTrigger]
+[2025.03.06-20.07.04:405][346]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GamePlay_Elements/Puerta/WinningTrigger_Auto4
+[2025.03.06-20.07.04:405][346]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/WinningTrigger_Auto4718DF6F3493B1E831C2B04A08E3C7C23.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/Autosaves/Game/GamePlay_Elements/Puerta/WinningTrigger_Auto4.uasset'
+[2025.03.06-20.07.04:413][346]LogFileHelpers: Auto-saving content packages took 3.638
+[2025.03.06-20.07.27:802][715]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GamePlay_Elements/Coleccionables/BP_CollectableItem.BP_CollectableItem
+[2025.03.06-20.07.27:802][715]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.03.06-20.08.28:718][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.06-20.10.30:367][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.06-20.11.00:008][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.06-20.11.21:553][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4011.695557
+[2025.03.06-20.11.21:712][435]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-20.11.21:712][435]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4011.845947, Update Interval: 301.701111
+[2025.03.06-20.11.33:650][836]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.11.33:650][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.11.33:816][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.06-20.11.36:528][147]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.06-20.11.36:528][147]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.11.36:528][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.11.36:705][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.06-20.11.40:053][536]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.06-20.11.40:053][536]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.11.40:053][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.11.40:218][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.06-20.11.42:435][792]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.06-20.11.42:435][792]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.11.42:436][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.11.42:631][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.06-20.11.43:572][894]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.06-20.11.43:572][894]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.11.43:572][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.11.43:737][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.06-20.12.02:987][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.06-20.12.02:987][698]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.12.02:987][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.12.03:135][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.06-20.12.08:811][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.06-20.12.11:820][731]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.06-20.12.11:958][731]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/GamePlay_Elements/Puerta/BP_F.BP_F
+	Asset Type: Blueprint
+[2025.03.06-20.12.12:196][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.06-20.12.12:319][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.06-20.12.12:345][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.06-20.12.12:364][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.06-20.17.09:463][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.06-20.17.09:469][600]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.032
+[2025.03.06-20.17.09:469][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GamePlay_Elements/Puerta/BP_FinalDoor] ([3] browsable assets)...
+[2025.03.06-20.17.09:469][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/BP_FinalDoor]
+[2025.03.06-20.17.09:552][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GamePlay_Elements/Puerta/BP_FinalDoor_Auto5
+[2025.03.06-20.17.09:552][600]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_FinalDoor_Auto5D8A1D094446B7EB06AEAD0A921F96FE2.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/Autosaves/Game/GamePlay_Elements/Puerta/BP_FinalDoor_Auto5.uasset'
+[2025.03.06-20.17.09:562][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GamePlay_Elements/Puerta/WinningTrigger] ([2] browsable assets)...
+[2025.03.06-20.17.09:562][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/WinningTrigger]
+[2025.03.06-20.17.09:844][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GamePlay_Elements/Puerta/WinningTrigger_Auto5
+[2025.03.06-20.17.09:844][600]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/WinningTrigger_Auto52962D9384DFE0EBF61FF33801A6AD347.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/Autosaves/Game/GamePlay_Elements/Puerta/WinningTrigger_Auto5.uasset'
+[2025.03.06-20.17.09:852][600]LogFileHelpers: Auto-saving content packages took 0.383
+[2025.03.06-20.17.13:696][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4363.838379
+[2025.03.06-20.17.14:372][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-20.17.14:372][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4364.180176, Update Interval: 353.937195
+[2025.03.06-20.23.47:100][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4757.235352
+[2025.03.06-20.23.48:105][784]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-20.23.48:106][784]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4757.903320, Update Interval: 328.995636
+[2025.03.06-20.27.14:322][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.06-20.27.14:325][401]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.025
+[2025.03.06-20.29.49:185][866]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5119.331055
+[2025.03.06-20.29.50:187][869]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-20.29.50:187][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5119.998535, Update Interval: 352.734161
+[2025.03.06-20.36.17:575][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5507.722168
+[2025.03.06-20.36.18:575][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-20.36.18:576][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5508.388672, Update Interval: 313.257233
+[2025.03.06-20.37.14:964][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.06-20.37.14:970][202]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2025.03.06-20.42.26:378][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5876.526855
+[2025.03.06-20.42.27:376][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.06-20.42.27:376][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5877.193359, Update Interval: 317.271027
+[2025.03.06-20.42.42:843][261]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GamePlay_Elements/Puerta/WinningTrigger.WinningTrigger
+[2025.03.06-20.42.42:843][261]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.03.06-20.44.29:413][877]LogSlate: Window 'WinningTrigger' being destroyed
+[2025.03.06-20.44.44:158][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.06-20.44.45:641][200]LogSlate: Window 'Save Content' being destroyed
+[2025.03.06-20.44.45:657][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.06-20.44.45:755][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.06-20.44.45:773][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.06-20.44.45:798][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.06-20.44.45:814][200]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GamePlay_Elements/Puerta/BP_FINALD] ([2] browsable assets)...
+[2025.03.06-20.44.45:814][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/BP_FINALD]
+[2025.03.06-20.44.52:677][200]LogSavePackage: Moving output files for package: /Game/GamePlay_Elements/Puerta/BP_FINALD
+[2025.03.06-20.45.00:359][200]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_FINALDF0E6E88B48D55CCA8635669C9D142CDB.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/GamePlay_Elements/Puerta/BP_FINALD.uasset'
+[2025.03.06-20.45.06:072][200]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile] ([2] browsable assets)...
+[2025.03.06-20.45.06:072][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile]
+[2025.03.06-20.45.18:270][200]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
+[2025.03.06-20.45.23:973][200]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/BP_FirstPersonProjectile062999FB4736C58A437945ADAA369EF5.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset'
+[2025.03.06-20.45.37:188][200]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA_ENEMY/IA_ENEMIGO] ([2] browsable assets)...
+[2025.03.06-20.45.37:188][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA_ENEMY/IA_ENEMIGO]
+[2025.03.06-20.45.37:188][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA_ENEMY/IA_ENEMIGO" FILE="E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/IA_ENEMY/IA_ENEMIGO.uasset" SILENT=true
+[2025.03.06-20.45.49:656][200]LogSavePackage: Moving output files for package: /Game/IA_ENEMY/IA_ENEMIGO
+[2025.03.06-20.45.55:344][200]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/IA_ENEMIGO176A0F0C49D701A4CC7846AC367D74B7.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/IA_ENEMY/IA_ENEMIGO.uasset'
+[2025.03.06-20.46.03:017][200]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GamePlay_Elements/Puerta/WinningTrigger] ([2] browsable assets)...
+[2025.03.06-20.46.03:017][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/GamePlay_Elements/Puerta/WinningTrigger]
+[2025.03.06-20.46.10:833][200]LogSavePackage: Moving output files for package: /Game/GamePlay_Elements/Puerta/WinningTrigger
+[2025.03.06-20.46.10:833][200]LogSavePackage: Moving 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Saved/WinningTrigger5567EEC740C81EBD6E22DF9D77A3C4DE.tmp' to 'E:/Proyecto Unreal/Seminario/Unreal_GameDev/UnrealGame_Seminario/Content/GamePlay_Elements/Puerta/WinningTrigger.uasset'
+[2025.03.06-20.46.18:422][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 1:32 min (total: 2:16 min)
+[2025.03.06-20.46.26:460][200]LogStall: Shutdown...
+[2025.03.06-20.46.26:461][200]LogStall: Shutdown complete.
+[2025.03.06-20.46.30:429][200]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.30:429][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.36:448][200]LogSlate: Window 'UnrealGame_Seminario - Unreal Editor' being destroyed
+[2025.03.06-20.46.36:633][200]LogContentValidation: Display: Starting to validate 4 assets
+[2025.03.06-20.46.36:633][200]LogContentValidation: Enabled validators:
+[2025.03.06-20.46.36:633][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.06-20.46.36:633][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.06-20.46.36:633][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.06-20.46.36:633][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.06-20.46.36:633][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.06-20.46.36:633][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.06-20.46.36:633][200]AssetCheck: /Game/GamePlay_Elements/Puerta/BP_FINALD Validating asset
+[2025.03.06-20.46.36:633][200]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile Validating asset
+[2025.03.06-20.46.36:633][200]AssetCheck: /Game/IA_ENEMY/IA_ENEMIGO Validating asset
+[2025.03.06-20.46.36:633][200]AssetCheck: /Game/GamePlay_Elements/Puerta/WinningTrigger Validating asset
+[2025.03.06-20.46.36:658][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.06-20.46.36:670][200]Cmd: QUIT_EDITOR
+[2025.03.06-20.46.36:670][200]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.06-20.46.42:392][201]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.06-20.46.42:393][201]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.06-20.46.42:393][201]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.06-20.46.42:396][201]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:396][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:396][201]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.03.06-20.46.42:466][201]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.06-20.46.42:468][201]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.06-20.46.42:470][201]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:470][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:473][201]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:473][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:476][201]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:476][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:478][201]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:478][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:480][201]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:480][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:483][201]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:483][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:485][201]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:485][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:487][201]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:487][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:489][201]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:489][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:492][201]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:492][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:494][201]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.06-20.46.42:494][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.06-20.46.42:496][201]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.06-20.46.42:504][201]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.06-20.46.42:504][201]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.06-20.46.42:504][201]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.06-20.46.43:356][201]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.06-20.46.43:356][201]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.06-20.46.43:356][201]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2025.03.06-20.46.43:356][201]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.06-20.46.43:356][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.06-20.46.43:358][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.06-20.46.43:368][201]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.06-20.46.43:368][201]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.06-20.46.43:369][201]LogWindowsTextInputMethodSystem: Activated input method: Español (Perú) - (Keyboard).
+[2025.03.06-20.46.43:373][201]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.06-20.46.43:373][201]LogExit: Preparing to exit.
+[2025.03.06-20.46.43:427][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.06-20.46.43:429][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:429][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:431][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.43:432][201]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.06-20.46.45:204][201]LogEditorDataStorage: Deinitializing
+[2025.03.06-20.46.45:333][201]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.06-20.46.49:152][201]LogExit: Editor shut down
+[2025.03.06-20.46.49:177][201]LogExit: Transaction tracking system shut down
+[2025.03.06-20.46.49:385][201]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 5.
+[2025.03.06-20.46.49:401][201]LogExit: Object subsystem successfully closed.
+[2025.03.06-20.46.49:505][201]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.06-20.46.50:135][201]LogMemoryProfiler: Shutdown
+[2025.03.06-20.46.50:135][201]LogNetworkingProfiler: Shutdown
+[2025.03.06-20.46.50:135][201]LoadingProfiler: Shutdown
+[2025.03.06-20.46.50:135][201]LogTimingProfiler: Shutdown
+[2025.03.06-20.47.01:018][201]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.03.06-20.47.01:018][201]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.06-20.47.01:018][201]LogNFORDenoise: NFORDenoise function shutting down
+[2025.03.06-20.47.02:930][201]RenderDocPlugin: plugin has been unloaded.
+[2025.03.06-20.47.02:965][201]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
+[2025.03.06-20.47.02:965][201]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAED3A32-49B7-0B41-7B13-438E1CF75819%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=24131bcb4e5a0e3a4dde2b93424082e7%7C337b210d2ce1422eb34d0360aa5fb4c2%7C4bba5da4-3b37-433a-a9e6-1da8950c2c11&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[3] status=Processing
+[2025.03.06-20.47.02:965][201]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAED3A32-49B7-0B41-7B13-438E1CF75819%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=24131bcb4e5a0e3a4dde2b93424082e7%7C337b210d2ce1422eb34d0360aa5fb4c2%7C4bba5da4-3b37-433a-a9e6-1da8950c2c11&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.06-20.47.04:159][201]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.06-20.47.04:166][201]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.03.06-20.47.04:167][201]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.03.06-20.47.04:167][201]LogPakFile: Destroying PakPlatformFile
+[2025.03.06-20.47.04:600][201]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.06-20.47.04:641][201]LogExit: Exiting.
+[2025.03.06-20.47.07:057][201]Log file closed, 03/06/25 15:47:07
